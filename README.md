@@ -1,10 +1,10 @@
-<center>
+<p align="center">
 
 # Hi there, I'm James! 👋 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social) ![](https://visitor-badge.glitch.me/badge?page_id=chutiphon-k.chutiphon-k)
 
 ![James's github stats](https://github-readme-stats.vercel.app/api?username=chutiphon-k&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
 
-</center>
+</p>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=chutiphon-k&hide=c%23&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
